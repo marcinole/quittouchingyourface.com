@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+### How does it work?
+FaceShield aims to make you aware of all those times you touch your face without realising it, helping you lose that unhygienic and potentially infectious habit. It uses machine learning algorithms to process the images from your webcam, and sounds an alert whenever your hands get close to your face. It runs in the background, without the need for an internet connection or a learning/training period.
 
-You can use the [editor on GitHub](https://github.com/marcinole/quittouchingyourface.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### How do I get started?
+Download the programme corresponding to your operating system using one of the 3 buttons above, then launch it. The detection starts after the FaceShield icon appears in your system tray/menu bar (this can take a few seconds). Click the FaceShield icon to display the menu where you can start, stop, configure and exit the programme.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How do I pause or stop the detection?
+Click "Stop" in the FaceShield menu to stop the detection. It can be restarted by subsequently clicking "Start" in that same menu.
 
-### Markdown
+### How can I troubleshoot the detection algo?
+Click "Show Video Feed" in the FaceShield menu to display the video currently captured by your webcam. A red rectangle should be drawn around your face, and green rectangles around your hands. You can change the hand detection sensitivity threshold with the slider appearing above the video feed (a lower value means more hand detections). Please also note that the webcam position, your skin tone and room lighting will have an impact on the accuracy of the detection algorithms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### The alert is sounding even when I don't touch my face. How can I fix this?
+Click "Show Video Feed" in the FaceShield menu to display the video currently captured by your webcam, and increase the detection sensitivity threshold with the slider appearing above the video feed.
 
-```markdown
-Syntax highlighted code block
+### How can I limit the programme's CPU utilisation?
+To lower CPU utilisation, you can set a lower FPS limit via the FaceShield menu.
 
-# Header 1
-## Header 2
-### Header 3
+### That alert sound doesn't cut it for me - do you have anything more effective?
+We're glad you asked :) If you need extra help kicking those bad face-touching habits, what better than Samuel L. Jackson giving you a piece of his mind when you slip. And if that's not enough, we added an ultimate deterrent - we'll let you discover that for yourself. You can switch to a different alert type via the FaceShield menu.
 
-- Bulleted
-- List
+### Contact
+For questions or feedback, you can email us at [#](mailto:#)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcinole/quittouchingyourface.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
