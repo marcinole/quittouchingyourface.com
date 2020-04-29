@@ -23,4 +23,4 @@ We're glad you asked :) If you need extra help kicking those bad face-touching h
 FaceShield was built using the [handtracking](https://github.com/victordibia/handtracking) and [face_recognition](https://github.com/ageitgey/face_recognition) Python libraries. Many thanks to the creators, maintainers and contributors of these projects.
 
 ### Contact
-For questions or feedback, you can email us at [#](mailto:#)
+For questions or feedback, you can email us at [contact@sandboks.ltd](mailto:contact@sandboks.ltd)
