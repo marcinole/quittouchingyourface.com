@@ -1,8 +1,8 @@
 ### How does it work?
-FaceShield aims to make you aware of all those times you touch your face without realising it, helping you lose that unhygienic and potentially infectious habit. It uses machine learning algorithms to process the images from your webcam, and sounds an alert whenever your hands get close to your face. It runs in the background, without the need for an internet connection or a learning/training period.
+FaceShield aims to make you aware of all those times you touch your face without realising it, helping you lose that unhygienic and potentially infectious habit. It uses machine learning algorithms to process the images from your webcam, and sounds an alert whenever your hands get close to your face. It runs in the background, without the need for an internet connection or a learning/training period (support for macOS and Linux coming soon).
 
 ### How do I get started?
-Download the programme corresponding to your operating system using one of the 3 buttons above, then launch it. The detection starts after the FaceShield icon appears in your system tray/menu bar (this can take a few seconds). Click the FaceShield icon to display the menu where you can start, stop, configure and exit the programme.
+Download the programme using the button above, then launch it. The detection starts after the FaceShield icon appears in your system tray/menu bar (this can take a few seconds). Click the FaceShield icon to display the menu where you can start, stop, configure and exit the programme.
 
 ### How do I pause or stop the detection?
 Click "Stop" in the FaceShield menu to stop the detection. It can be restarted by subsequently clicking "Start" in that same menu.
